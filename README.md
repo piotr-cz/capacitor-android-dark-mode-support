@@ -5,6 +5,9 @@ It has been created to maintain plugin functionality in WebView versions <= 100 
 Installation:
 
 ```shell
+# Capacitor 6
+npm install @robingenz/capacitor-android-dark-mode-support@github:piotr-cz/capacitor-android-dark-mode-support#feature/capacitor-6
+
 # Capacitor 5
 npm install @robingenz/capacitor-android-dark-mode-support@github:piotr-cz/capacitor-android-dark-mode-support#feature/capacitor-5
 
