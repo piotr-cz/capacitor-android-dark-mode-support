@@ -1,3 +1,20 @@
+This is a fork of the deprecated [@robingenz/capacitor-android-dark-mode-support](https://github.com/capawesome-team/capacitor-android-dark-mode-support) Capacitor plugin which has been ported to work with newer Capacitor versions.
+
+It has been created to maintain plugin functionality in WebView versions <= 100 (see [Issue 10](https://github.com/capawesome-team/capacitor-android-dark-mode-support/issues/10) for more info).
+
+Installation:
+
+```shell
+# Capacitor 5
+npm install @robingenz/capacitor-android-dark-mode-support@github:piotr-cz/capacitor-android-dark-mode-support#feature/capacitor-5
+
+# Capacitor 4
+npm install @robingenz/capacitor-android-dark-mode-support@github:piotr-cz/capacitor-android-dark-mode-support#feature/capacitor-4
+```
+
+Below comes original readme.
+
+
 ## ⚠️ Deprecated repository
 
 **Capacitor now officially supports dark mode on Android. See this [comment](https://github.com/ionic-team/capacitor/issues/4677#issuecomment-1126274884).**
